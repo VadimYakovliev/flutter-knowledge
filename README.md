@@ -1,2 +1,2 @@
 # flutter-knowledge
-Материалы по Flutter/Dart разработке для Flutter направление Peer Lab комьюнити в Киеве
+Материалы по Flutter/Dart разработке для Peer Lab комьюнити в Киеве

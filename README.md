@@ -3,6 +3,8 @@
 
 
 
+
+
 **Введение для iOS разработчиков**
 
 <https://flutter.dev/docs/get-started/flutter-for/ios-devs>
@@ -14,6 +16,10 @@
 **Введение по языку Dart для всех:**
 
 <https://www.dartlang.org/guides/language/language-tour>
+
+**Dart Style** https://www.dartlang.org/guides/language/effective-dart/style
+
+**Dart Usage** https://www.dartlang.org/guides/language/effective-dart/usage
 
 
 
@@ -37,12 +43,16 @@
 
 <https://docs.google.com/presentation/d/1cw7A4HbvM_Abv320rVgPVGiUP2msVs7tfGbkgdrTy0I/mobilepresent?slide=id.p>
 
+
+
 **Информация по архитектурам**
 
 - <https://github.com/brianegan/flutter_architecture_samples/blob/master/README.md>
 - <https://habr.com/ru/post/438574/>
 - <https://medium.com/flutterpub/architecting-your-flutter-project-bd04e144a8f1> про Block
 - <https://felangel.github.io/bloc/#/> и еще про Bloc)
+
+
 
 
 
@@ -64,15 +74,21 @@
 
 
 
+
+
 ### Каталог Flutter приложений: 
 
 [https://itsallwidgets.com](https://itsallwidgets.com/)
 
 
 
+
+
 ### Tools:
 
 <https://javiercbk.github.io/json_to_dart/> Создание моделей данных из JSON
+
+
 
 
 

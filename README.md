@@ -1,9 +1,7 @@
 # **Flutter knowledge**
 Обновляемые материалы по Flutter/Dart для Peer Lab комьюнити в Киеве.
 
-
-
-
+<br />
 
 **Введение для iOS разработчиков**
 
@@ -21,19 +19,19 @@
 
 **Dart Usage** https://www.dartlang.org/guides/language/effective-dart/usage
 
-
+<br />
 
 **Основной FAQ по фрейморку Flutter** 
 
 <https://flutter.dev/docs/resources/faq>
 
-
+<br />
 
 **Вызовы нативного кода iOs и Андроид**
 
 <https://flutter.dev/docs/development/platform-integration/platform-channels>
 
-
+<br />
 
 **Использование библиотек** 
 
@@ -43,7 +41,7 @@
 
 <https://docs.google.com/presentation/d/1cw7A4HbvM_Abv320rVgPVGiUP2msVs7tfGbkgdrTy0I/mobilepresent?slide=id.p>
 
-
+<br />
 
 **Информация по архитектурам**
 
@@ -52,9 +50,7 @@
 - <https://medium.com/flutterpub/architecting-your-flutter-project-bd04e144a8f1> про Block
 - <https://felangel.github.io/bloc/#/> и еще про Bloc)
 
-
-
-
+<br />
 
 ### Уроки/Туториалы:
 
@@ -66,31 +62,23 @@
 
 **Awesome Dart** <https://github.com/yissachar/awesome-dart>
 
-
-
 **Login tutorial** https://felangel.github.io/bloc/#/flutterlogintutorial
 
 **Flutter ListView and ScrollPhysics** https://medium.com/flutter-community/flutter-listview-and-scrollphysics-a-detailed-look-7f0912df2754
 
-
-
-
+<br />
 
 ### Каталог Flutter приложений: 
 
 [https://itsallwidgets.com](https://itsallwidgets.com/)
 
-
-
-
+<br />
 
 ### Tools:
 
 <https://javiercbk.github.io/json_to_dart/> Создание моделей данных из JSON
 
-
-
-
+<br />
 
 ### Podcats:
 
@@ -106,7 +94,7 @@
 
 https://sdcast.ksdaemon.ru/2017/10/sdcast-64/
 
-
+<br />
 
 ### Video
 

@@ -1,5 +1,5 @@
 # **Flutter knowledge**
-Обновляемые материалы по Flutter/Dart для Peer Lab комьюнити в Киеве.
+## Обновляемые материалы по Flutter/Dart для Peer Lab комьюнити в Киеве.
 
 <br />
 
@@ -76,7 +76,15 @@
 
 ### Tools:
 
-<https://javiercbk.github.io/json_to_dart/> Создание моделей данных из JSON
+https://dartpad.dartlang.org **Online playground** для **Dart Lang**
+
+https://flutter.dev/docs/development/tools/vs-code Разработка в **VSCode**
+
+https://flutter.dev/docs/development/tools/android-studio Разработка в **Android Studio**
+
+https://flutter.github.io/devtools/ Использование **Dart DevTools** (preview)
+
+https://javiercbk.github.io/json_to_dart/  Создание моделей данных из **JSON**
 
 <br />
 
@@ -103,3 +111,7 @@ https://sdcast.ksdaemon.ru/2017/10/sdcast-64/
 [Евгений Гусев "Dart...жив?"](https://www.youtube.com/watch?v=bs5X7IQD8Yg)
 
 [DartUP 2018](https://www.youtube.com/playlist?list=PLxcvsYzLfaTAwLy1UO2Y6b_AMg-0uDSjX)
+
+
+
+P.S. Добавление материалов предполагает pull request

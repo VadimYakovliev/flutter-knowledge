@@ -25,6 +25,10 @@
 
 <https://flutter.dev/docs/resources/faq>
 
+**Cookbook** (Cодержит материлы с демонстрацией решения общих проблем)
+
+https://flutter.dev/docs/cookbook
+
 <br />
 
 **Вызовы нативного кода iOs и Андроид**
@@ -65,6 +69,10 @@
 **Login tutorial** https://felangel.github.io/bloc/#/flutterlogintutorial
 
 **Flutter ListView and ScrollPhysics** https://medium.com/flutter-community/flutter-listview-and-scrollphysics-a-detailed-look-7f0912df2754
+
+**Ways to pass and share data with widgets** https://medium.com/flutter-community/simple-ways-to-pass-to-and-share-data-with-widgets-pages-f8988534bd5b
+
+**Managing App State With InheritedWidgets** https://medium.com/flutter-io/managing-flutter-application-state-with-inheritedwidgets-1140452befe1
 
 <br />
 

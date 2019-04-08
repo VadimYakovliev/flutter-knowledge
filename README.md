@@ -60,7 +60,11 @@ https://flutter.dev/docs/cookbook
 
 **Codelabs** https://flutter.dev/docs/codelabs
 
-**Flutter Layout Cheat Sheet** <https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e>
+**Официальный канал на Medium** https://flutterdoc.com
+
+**Flutter Layout Cheatsheet** <https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e>
+
+**Basic Navigation Cheatsheet** https://medium.com/filledstacks/basic-navigation-in-flutter-navigator-only-cheatsheet-9c2e2584a6b1
 
 **Awesome Flutter** <https://github.com/Solido/awesome-flutter/blob/master/README.md>
 
@@ -113,6 +117,8 @@ https://sdcast.ksdaemon.ru/2017/10/sdcast-64/
 <br />
 
 ### Video
+
+[Короткие видео с разбором виджетов](https://www.youtube.com/watch?v=lkF0TQJO0bA&list=PLOU2XLYxmsIL0pH0zWe_ZOHgGhZ7UasUE)
 
 [Евгений Гусев "Dart питание и сила для вашего проекта"](https://www.youtube.com/watch?v=TtLMHfvY2uM&feature=youtu.be)
 

@@ -35,6 +35,10 @@ https://flutter.dev/docs/cookbook
 
 <https://flutter.dev/docs/development/platform-integration/platform-channels>
 
+**Интеграция в существующее приложение**
+
+https://github.com/flutter/flutter/wiki/Add-Flutter-to-existing-apps
+
 <br />
 
 **Использование библиотек** 
@@ -90,6 +94,8 @@ https://flutter.dev/docs/cookbook
 
 https://dartpad.dartlang.org **Online playground** для **Dart Lang**
 
+https://flutterstudio.app **Online конструктор для UI**
+
 https://flutter.dev/docs/development/tools/vs-code Разработка в **VSCode**
 
 https://flutter.dev/docs/development/tools/android-studio Разработка в **Android Studio**
@@ -97,6 +103,18 @@ https://flutter.dev/docs/development/tools/android-studio Разработка �
 https://flutter.github.io/devtools/ Использование **Dart DevTools** (preview)
 
 https://javiercbk.github.io/json_to_dart/  Создание моделей данных из **JSON**
+
+**Flare** - создание анимаций и интеграция в приложение (альтернатива Lottie):
+https://www.2dimensions.com/about-flare
+https://pub.dartlang.org/packages/flare_flutter
+
+<br />
+
+### Blogs:
+
+https://iirokrankka.com
+
+https://www.didierboelens.com
 
 <br />
 
@@ -126,6 +144,6 @@ https://sdcast.ksdaemon.ru/2017/10/sdcast-64/
 
 [DartUP 2018](https://www.youtube.com/playlist?list=PLxcvsYzLfaTAwLy1UO2Y6b_AMg-0uDSjX)
 
+<br />
 
-
-P.S. Добавление материалов предполагает pull request
+**P.S.** Добавление материалов предполагает **pull request**

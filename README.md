@@ -82,6 +82,12 @@ https://github.com/flutter/flutter/wiki/Add-Flutter-to-existing-apps
 
 **Managing App State With InheritedWidgets** https://medium.com/flutter-io/managing-flutter-application-state-with-inheritedwidgets-1140452befe1
 
+***Share* меню в Андроид** https://muetsch.io/how-to-receive-sharing-intents-in-flutter.html
+
+**Handle screen transitions** https://medium.com/@najeira/how-to-handle-screen-transitions-in-flutter-b39dcb2675f
+
+**Tinder Swipe in Flutter** https://blog.geekyants.com/tinder-swipe-in-flutter-7e4fc56021bc
+
 <br />
 
 ### Каталог Flutter приложений: 

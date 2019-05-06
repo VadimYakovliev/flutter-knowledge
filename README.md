@@ -55,7 +55,7 @@ https://github.com/flutter/flutter/wiki/Add-Flutter-to-existing-apps
 
 **Информация по архитектурам**
 
-- <https://github.com/brianegan/flutter_architecture_samples>
+- **Flutter Architecture Samples** http://fluttersamples.com (<https://github.com/brianegan/flutter_architecture_samples>)
 - <https://habr.com/ru/post/438574/>
 - <https://medium.com/flutterpub/architecting-your-flutter-project-bd04e144a8f1> про Block
 - <https://felangel.github.io/bloc/#/> и еще про Bloc)

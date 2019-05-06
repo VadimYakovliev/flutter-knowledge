@@ -19,6 +19,8 @@
 
 **Dart Usage** https://www.dartlang.org/guides/language/effective-dart/usage
 
+**Introduction to animations** https://flutter.dev/docs/development/ui/animations
+
 <br />
 
 **Основной FAQ по фрейморку Flutter** 
@@ -53,10 +55,11 @@ https://github.com/flutter/flutter/wiki/Add-Flutter-to-existing-apps
 
 **Информация по архитектурам**
 
-- <https://github.com/brianegan/flutter_architecture_samples/blob/master/README.md>
+- <https://github.com/brianegan/flutter_architecture_samples>
 - <https://habr.com/ru/post/438574/>
 - <https://medium.com/flutterpub/architecting-your-flutter-project-bd04e144a8f1> про Block
 - <https://felangel.github.io/bloc/#/> и еще про Bloc)
+- <https://www.didierboelens.com/2019/04/bloc---scopedmodel---redux---comparison/> сравнение BLoC - ScopedModel - Redux
 
 <br />
 
@@ -88,11 +91,21 @@ https://github.com/flutter/flutter/wiki/Add-Flutter-to-existing-apps
 
 **Tinder Swipe in Flutter** https://blog.geekyants.com/tinder-swipe-in-flutter-7e4fc56021bc
 
+**Flutter Example Apps (Source Code + YouTube Link)** https://github.com/iampawan/FlutterExampleApps
+
+**Коллекция пользовательских интерфейсов реальных приложений** https://github.com/iampawan/Flutter-UI-Kit
+
 <br />
 
 ### Каталог Flutter приложений: 
 
 [https://itsallwidgets.com](https://itsallwidgets.com/)
+
+<br />
+
+### Плагины/зависимости: 
+
+**Flutter Plugin for Square In-App Payments SDK** https://github.com/square/in-app-payments-flutter-plugin
 
 <br />
 
